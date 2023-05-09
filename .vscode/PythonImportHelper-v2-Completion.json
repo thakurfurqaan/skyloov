@@ -1,0 +1,1509 @@
+[
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "products.models",
+        "description": "products.models",
+        "isExtraImport": true,
+        "detail": "products.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "products.models",
+        "description": "products.models",
+        "isExtraImport": true,
+        "detail": "products.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "products.models",
+        "description": "products.models",
+        "isExtraImport": true,
+        "detail": "products.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "products.models",
+        "description": "products.models",
+        "isExtraImport": true,
+        "detail": "products.models",
+        "documentation": {}
+    },
+    {
+        "label": "ProductImage",
+        "importPath": "products.models",
+        "description": "products.models",
+        "isExtraImport": true,
+        "detail": "products.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "products.models",
+        "description": "products.models",
+        "isExtraImport": true,
+        "detail": "products.models",
+        "documentation": {}
+    },
+    {
+        "label": "ProductImage",
+        "importPath": "products.models",
+        "description": "products.models",
+        "isExtraImport": true,
+        "detail": "products.models",
+        "documentation": {}
+    },
+    {
+        "label": "ProductImage",
+        "importPath": "products.models",
+        "description": "products.models",
+        "isExtraImport": true,
+        "detail": "products.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "importPath": "products.models",
+        "description": "products.models",
+        "isExtraImport": true,
+        "detail": "products.models",
+        "documentation": {}
+    },
+    {
+        "label": "ProductImage",
+        "importPath": "products.models",
+        "description": "products.models",
+        "isExtraImport": true,
+        "detail": "products.models",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "filters",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "CartItem",
+        "importPath": "cart.models",
+        "description": "cart.models",
+        "isExtraImport": true,
+        "detail": "cart.models",
+        "documentation": {}
+    },
+    {
+        "label": "Cart",
+        "importPath": "cart.models",
+        "description": "cart.models",
+        "isExtraImport": true,
+        "detail": "cart.models",
+        "documentation": {}
+    },
+    {
+        "label": "CartItem",
+        "importPath": "cart.models",
+        "description": "cart.models",
+        "isExtraImport": true,
+        "detail": "cart.models",
+        "documentation": {}
+    },
+    {
+        "label": "Cart",
+        "importPath": "cart.models",
+        "description": "cart.models",
+        "isExtraImport": true,
+        "detail": "cart.models",
+        "documentation": {}
+    },
+    {
+        "label": "ProductSerializer",
+        "importPath": "products.serializers",
+        "description": "products.serializers",
+        "isExtraImport": true,
+        "detail": "products.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ProductSearchSerializer",
+        "importPath": "products.serializers",
+        "description": "products.serializers",
+        "isExtraImport": true,
+        "detail": "products.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ProductSerializer",
+        "importPath": "products.serializers",
+        "description": "products.serializers",
+        "isExtraImport": true,
+        "detail": "products.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ProductImageSerializer",
+        "importPath": "products.serializers",
+        "description": "products.serializers",
+        "isExtraImport": true,
+        "detail": "products.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "AllowAny",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "CartItemSerializer",
+        "importPath": "cart.serializers",
+        "description": "cart.serializers",
+        "isExtraImport": true,
+        "detail": "cart.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "CartItemListSerializer",
+        "importPath": "cart.serializers",
+        "description": "cart.serializers",
+        "isExtraImport": true,
+        "detail": "cart.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "BaseCommand",
+        "importPath": "django.core.management.base",
+        "description": "django.core.management.base",
+        "isExtraImport": true,
+        "detail": "django.core.management.base",
+        "documentation": {}
+    },
+    {
+        "label": "BytesIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "InMemoryUploadedFile",
+        "importPath": "django.core.files.uploadedfile",
+        "description": "django.core.files.uploadedfile",
+        "isExtraImport": true,
+        "detail": "django.core.files.uploadedfile",
+        "documentation": {}
+    },
+    {
+        "label": "ProductSearchView",
+        "importPath": "products.views",
+        "description": "products.views",
+        "isExtraImport": true,
+        "detail": "products.views",
+        "documentation": {}
+    },
+    {
+        "label": "ProductDetail",
+        "importPath": "products.views",
+        "description": "products.views",
+        "isExtraImport": true,
+        "detail": "products.views",
+        "documentation": {}
+    },
+    {
+        "label": "upload_product_image",
+        "importPath": "products.views",
+        "description": "products.views",
+        "isExtraImport": true,
+        "detail": "products.views",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "multiprocessing",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "multiprocessing",
+        "description": "multiprocessing",
+        "detail": "multiprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "permission_classes",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "MultiPartParser",
+        "importPath": "rest_framework.parsers",
+        "description": "rest_framework.parsers",
+        "isExtraImport": true,
+        "detail": "rest_framework.parsers",
+        "documentation": {}
+    },
+    {
+        "label": "FormParser",
+        "importPath": "rest_framework.parsers",
+        "description": "rest_framework.parsers",
+        "isExtraImport": true,
+        "detail": "rest_framework.parsers",
+        "documentation": {}
+    },
+    {
+        "label": "DjangoFilterBackend",
+        "importPath": "django_filters.rest_framework",
+        "description": "django_filters.rest_framework",
+        "isExtraImport": true,
+        "detail": "django_filters.rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "process_product_image",
+        "importPath": "products.tasks",
+        "description": "products.tasks",
+        "isExtraImport": true,
+        "detail": "products.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "post_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "receiver",
+        "importPath": "django.dispatch",
+        "description": "django.dispatch",
+        "isExtraImport": true,
+        "detail": "django.dispatch",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "send_welcome_email",
+        "importPath": "registration.tasks",
+        "description": "registration.tasks",
+        "isExtraImport": true,
+        "detail": "registration.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "WELCOME_EMAIL_DELAY_SECONDS",
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "isExtraImport": true,
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_USER",
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "isExtraImport": true,
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "shared_task",
+        "importPath": "celery",
+        "description": "celery",
+        "isExtraImport": true,
+        "detail": "celery",
+        "documentation": {}
+    },
+    {
+        "label": "Celery",
+        "importPath": "celery",
+        "description": "celery",
+        "isExtraImport": true,
+        "detail": "celery",
+        "documentation": {}
+    },
+    {
+        "label": "send_mail",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "importPath": "registration.views",
+        "description": "registration.views",
+        "isExtraImport": true,
+        "detail": "registration.views",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "get_schema_view",
+        "importPath": "drf_yasg.views",
+        "description": "drf_yasg.views",
+        "isExtraImport": true,
+        "detail": "drf_yasg.views",
+        "documentation": {}
+    },
+    {
+        "label": "openapi",
+        "importPath": "drf_yasg",
+        "description": "drf_yasg",
+        "isExtraImport": true,
+        "detail": "drf_yasg",
+        "documentation": {}
+    },
+    {
+        "label": "TokenObtainPairView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "TokenRefreshView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "cart.migrations.0001_initial",
+        "description": "cart.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('products', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Cart',\n            fields=[",
+        "detail": "cart.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "CartItemInline",
+        "kind": 6,
+        "importPath": "cart.admin",
+        "description": "cart.admin",
+        "peekOfCode": "class CartItemInline(admin.TabularInline):\n    model = CartItem\n    extra = 1\nclass CartAdmin(admin.ModelAdmin):\n    inlines = [CartItemInline]\nadmin.site.register(Cart, CartAdmin)\nadmin.site.register(CartItem)",
+        "detail": "cart.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CartAdmin",
+        "kind": 6,
+        "importPath": "cart.admin",
+        "description": "cart.admin",
+        "peekOfCode": "class CartAdmin(admin.ModelAdmin):\n    inlines = [CartItemInline]\nadmin.site.register(Cart, CartAdmin)\nadmin.site.register(CartItem)",
+        "detail": "cart.admin",
+        "documentation": {}
+    },
+    {
+        "label": "CartConfig",
+        "kind": 6,
+        "importPath": "cart.apps",
+        "description": "cart.apps",
+        "peekOfCode": "class CartConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'cart'",
+        "detail": "cart.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Cart",
+        "kind": 6,
+        "importPath": "cart.models",
+        "description": "cart.models",
+        "peekOfCode": "class Cart(models.Model):\n    user = models.OneToOneField(User, on_delete=models.CASCADE)\n    def __str__(self):\n        return self.user.username\nclass CartItem(models.Model):\n    product = models.ForeignKey(\n        Product, on_delete=models.CASCADE, related_name=\"cart_items\"\n    )\n    cart = models.ForeignKey(Cart, on_delete=models.CASCADE, related_name=\"cart_items\")\n    quantity = models.IntegerField()",
+        "detail": "cart.models",
+        "documentation": {}
+    },
+    {
+        "label": "CartItem",
+        "kind": 6,
+        "importPath": "cart.models",
+        "description": "cart.models",
+        "peekOfCode": "class CartItem(models.Model):\n    product = models.ForeignKey(\n        Product, on_delete=models.CASCADE, related_name=\"cart_items\"\n    )\n    cart = models.ForeignKey(Cart, on_delete=models.CASCADE, related_name=\"cart_items\")\n    quantity = models.IntegerField()\n    def __str__(self):\n        return f\"{self.product.name} - {self.quantity}\"",
+        "detail": "cart.models",
+        "documentation": {}
+    },
+    {
+        "label": "CartItemSerializer",
+        "kind": 6,
+        "importPath": "cart.serializers",
+        "description": "cart.serializers",
+        "peekOfCode": "class CartItemSerializer(serializers.ModelSerializer):\n    product = serializers.PrimaryKeyRelatedField(queryset=Product.objects.all())\n    class Meta:\n        model = CartItem\n        fields = (\"product\", \"quantity\")\nclass CartItemListSerializer(serializers.ModelSerializer):\n    product = ProductSerializer()\n    class Meta:\n        model = CartItem\n        fields = (\"id\", \"product\", \"quantity\")",
+        "detail": "cart.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "CartItemListSerializer",
+        "kind": 6,
+        "importPath": "cart.serializers",
+        "description": "cart.serializers",
+        "peekOfCode": "class CartItemListSerializer(serializers.ModelSerializer):\n    product = ProductSerializer()\n    class Meta:\n        model = CartItem\n        fields = (\"id\", \"product\", \"quantity\")\nclass CartSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Cart\n        fields = (\"user\",)",
+        "detail": "cart.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "CartSerializer",
+        "kind": 6,
+        "importPath": "cart.serializers",
+        "description": "cart.serializers",
+        "peekOfCode": "class CartSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Cart\n        fields = (\"user\",)",
+        "detail": "cart.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "cart.urls",
+        "description": "cart.urls",
+        "peekOfCode": "urlpatterns = [\n    # View all cart items for the authenticated user\n    path(\"items/\", views.CartItemsView.as_view(), name=\"cart_items\"),\n    # Add a product to the cart for the authenticated user\n    path(\"items/add/\", views.AddToCartView.as_view(), name=\"add_to_cart\"),\n    # Update the quantity of a cart item for the authenticated user\n    path(\n        \"items/<int:pk>/quantity/\",\n        views.UpdateCartItemQuantityView.as_view(),\n        name=\"update_cart_item_quantity\",",
+        "detail": "cart.urls",
+        "documentation": {}
+    },
+    {
+        "label": "AddToCartView",
+        "kind": 6,
+        "importPath": "cart.views",
+        "description": "cart.views",
+        "peekOfCode": "class AddToCartView(generics.CreateAPIView):\n    permission_classes = [IsAuthenticated]\n    serializer_class = CartItemSerializer\n    def perform_create(self, serializer):\n        user = self.request.user\n        cart, created = Cart.objects.get_or_create(user=user)\n        product = serializer.validated_data[\"product\"]\n        quantity = serializer.validated_data[\"quantity\"]\n        try:\n            cart_item = CartItem.objects.get(cart=cart, product=product)",
+        "detail": "cart.views",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateCartItemQuantityView",
+        "kind": 6,
+        "importPath": "cart.views",
+        "description": "cart.views",
+        "peekOfCode": "class UpdateCartItemQuantityView(generics.UpdateAPIView):\n    permission_classes = [IsAuthenticated]\n    queryset = CartItem.objects.all()\n    serializer_class = CartItemSerializer\n    def put(self, request, *args, **kwargs):\n        cart_item = self.get_object()\n        cart_item.quantity = request.data.get(\"quantity\", cart_item.quantity)\n        cart_item.save()\n        serializer = self.get_serializer(cart_item)\n        return Response(serializer.data)",
+        "detail": "cart.views",
+        "documentation": {}
+    },
+    {
+        "label": "CartItemsView",
+        "kind": 6,
+        "importPath": "cart.views",
+        "description": "cart.views",
+        "peekOfCode": "class CartItemsView(generics.ListAPIView):\n    permission_classes = [IsAuthenticated]\n    serializer_class = CartItemListSerializer\n    def get_queryset(self):\n        user = self.request.user\n        cart, created = Cart.objects.get_or_create(user=user)\n        return cart.cart_items.all()\nclass RemoveCartItemView(generics.DestroyAPIView):\n    permission_classes = [IsAuthenticated]\n    queryset = CartItem.objects.all()",
+        "detail": "cart.views",
+        "documentation": {}
+    },
+    {
+        "label": "RemoveCartItemView",
+        "kind": 6,
+        "importPath": "cart.views",
+        "description": "cart.views",
+        "peekOfCode": "class RemoveCartItemView(generics.DestroyAPIView):\n    permission_classes = [IsAuthenticated]\n    queryset = CartItem.objects.all()\n    serializer_class = CartItemSerializer",
+        "detail": "cart.views",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "kind": 6,
+        "importPath": "products.management.commands.populate_real_products",
+        "description": "products.management.commands.populate_real_products",
+        "peekOfCode": "class Command(BaseCommand):\n    help = \"Populates the database with sample products\"\n    def handle(self, *args, **kwargs):\n        Product.objects.create(\n            name=\"Emaar Beachfront Apartment\",\n            description=\"Beautiful 2-bedroom apartment in Emaar Beachfront with sea view\",\n            price=1200000,\n            quantity=10,\n            category=\"Apartment\",\n            brand=\"Emaar Properties\",",
+        "detail": "products.management.commands.populate_real_products",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "products.migrations.0001_initial",
+        "description": "products.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Product',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=255)),",
+        "detail": "products.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "products.migrations.0002_productimage_remove_product_image_product_images",
+        "description": "products.migrations.0002_productimage_remove_product_image_product_images",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('products', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='ProductImage',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('image', models.ImageField(upload_to='products/images')),",
+        "detail": "products.migrations.0002_productimage_remove_product_image_product_images",
+        "documentation": {}
+    },
+    {
+        "label": "ProductAdmin",
+        "kind": 6,
+        "importPath": "products.admin",
+        "description": "products.admin",
+        "peekOfCode": "class ProductAdmin(admin.ModelAdmin):\n    list_display = (\"name\", \"price\", \"quantity\", \"category\", \"brand\", \"rating\")\n    ordering = (\"name\",)\nadmin.site.register(Product, ProductAdmin)\nadmin.site.register(ProductImage)",
+        "detail": "products.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ProductsConfig",
+        "kind": 6,
+        "importPath": "products.apps",
+        "description": "products.apps",
+        "peekOfCode": "class ProductsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'products'",
+        "detail": "products.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "kind": 6,
+        "importPath": "products.models",
+        "description": "products.models",
+        "peekOfCode": "class Product(models.Model):\n    name = models.CharField(max_length=255)\n    description = models.TextField()\n    price = models.DecimalField(max_digits=10, decimal_places=2)\n    quantity = models.IntegerField()\n    category = models.CharField(max_length=255)\n    brand = models.CharField(max_length=255)\n    rating = models.FloatField()\n    images = models.ManyToManyField(\"ProductImage\", related_name=\"products\")\n    created_at = models.DateTimeField(auto_now_add=True)",
+        "detail": "products.models",
+        "documentation": {}
+    },
+    {
+        "label": "ProductImage",
+        "kind": 6,
+        "importPath": "products.models",
+        "description": "products.models",
+        "peekOfCode": "class ProductImage(models.Model):\n    image = models.ImageField(upload_to=\"products/images\")\n    thumbnail = models.ImageField(upload_to=\"products/thumbnails\", null=True)\n    small = models.ImageField(upload_to=\"products/small\", null=True)\n    large = models.ImageField(upload_to=\"products/large\", null=True)\n    def __str__(self):\n        return f\"{self.image}\"",
+        "detail": "products.models",
+        "documentation": {}
+    },
+    {
+        "label": "ProductImageSerializer",
+        "kind": 6,
+        "importPath": "products.serializers",
+        "description": "products.serializers",
+        "peekOfCode": "class ProductImageSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = ProductImage\n        fields = [\"id\", \"image\", \"thumbnail\", \"small\", \"large\"]\nclass ProductImageUploadSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Product\n        fields = [\"id\", \"images\"]\nclass ProductSerializer(serializers.ModelSerializer):\n    images = ProductImageSerializer(many=True, read_only=True)",
+        "detail": "products.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ProductImageUploadSerializer",
+        "kind": 6,
+        "importPath": "products.serializers",
+        "description": "products.serializers",
+        "peekOfCode": "class ProductImageUploadSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Product\n        fields = [\"id\", \"images\"]\nclass ProductSerializer(serializers.ModelSerializer):\n    images = ProductImageSerializer(many=True, read_only=True)\n    class Meta:\n        model = Product\n        fields = [\n            \"id\",",
+        "detail": "products.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ProductSerializer",
+        "kind": 6,
+        "importPath": "products.serializers",
+        "description": "products.serializers",
+        "peekOfCode": "class ProductSerializer(serializers.ModelSerializer):\n    images = ProductImageSerializer(many=True, read_only=True)\n    class Meta:\n        model = Product\n        fields = [\n            \"id\",\n            \"name\",\n            \"description\",\n            \"price\",\n            \"quantity\",",
+        "detail": "products.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ProductSearchSerializer",
+        "kind": 6,
+        "importPath": "products.serializers",
+        "description": "products.serializers",
+        "peekOfCode": "class ProductSearchSerializer(serializers.Serializer):\n    category = serializers.CharField(required=False, allow_blank=True)\n    brand = serializers.CharField(required=False, allow_blank=True)\n    min_price = serializers.DecimalField(\n        required=False, max_digits=10, decimal_places=2\n    )\n    max_price = serializers.DecimalField(\n        required=False, max_digits=10, decimal_places=2\n    )\n    min_quantity = serializers.IntegerField(required=False)",
+        "detail": "products.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "process_product_image",
+        "kind": 2,
+        "importPath": "products.tasks",
+        "description": "products.tasks",
+        "peekOfCode": "def process_product_image(image_id):\n    try:\n        image = ProductImage.objects.get(id=image_id)\n        image_data = image.image.read()\n        # Generate thumbnails\n        sizes = {\n            \"thumbnail\": (150, 150),\n            \"small\": (300, 300),\n            \"large\": (1200, 1200),\n        }",
+        "detail": "products.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "products.urls",
+        "description": "products.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"search/\", ProductSearchView.as_view(), name=\"product_search\"),\n    path(\"<int:pk>/upload-image/\", upload_product_image, name=\"upload_product_image\"),\n    path(\"<int:pk>/\", ProductDetail.as_view(), name=\"product\"),\n    path(\"\", ProductDetail.as_view()),\n]",
+        "detail": "products.urls",
+        "documentation": {}
+    },
+    {
+        "label": "ProductList",
+        "kind": 6,
+        "importPath": "products.views",
+        "description": "products.views",
+        "peekOfCode": "class ProductList(generics.ListCreateAPIView):\n    queryset = Product.objects.all()\n    serializer_class = ProductSerializer\nclass ProductDetail(generics.RetrieveUpdateDestroyAPIView):\n    queryset = Product.objects.all()\n    serializer_class = ProductSerializer\nclass ProductImageCreateView(generics.CreateAPIView):\n    permission_classes = [IsAuthenticated]\n    queryset = Product.objects.all()\n    serializer_class = ProductImageSerializer",
+        "detail": "products.views",
+        "documentation": {}
+    },
+    {
+        "label": "ProductDetail",
+        "kind": 6,
+        "importPath": "products.views",
+        "description": "products.views",
+        "peekOfCode": "class ProductDetail(generics.RetrieveUpdateDestroyAPIView):\n    queryset = Product.objects.all()\n    serializer_class = ProductSerializer\nclass ProductImageCreateView(generics.CreateAPIView):\n    permission_classes = [IsAuthenticated]\n    queryset = Product.objects.all()\n    serializer_class = ProductImageSerializer\n    parser_classes = [MultiPartParser, FormParser]\n    def post(self, request, *args, **kwargs):\n        product = self.get_object()",
+        "detail": "products.views",
+        "documentation": {}
+    },
+    {
+        "label": "ProductImageCreateView",
+        "kind": 6,
+        "importPath": "products.views",
+        "description": "products.views",
+        "peekOfCode": "class ProductImageCreateView(generics.CreateAPIView):\n    permission_classes = [IsAuthenticated]\n    queryset = Product.objects.all()\n    serializer_class = ProductImageSerializer\n    parser_classes = [MultiPartParser, FormParser]\n    def post(self, request, *args, **kwargs):\n        product = self.get_object()\n        images = request.FILES.getlist(\"images\")\n        if not images:\n            return Response(",
+        "detail": "products.views",
+        "documentation": {}
+    },
+    {
+        "label": "ProductSearchView",
+        "kind": 6,
+        "importPath": "products.views",
+        "description": "products.views",
+        "peekOfCode": "class ProductSearchView(generics.ListAPIView):\n    permission_classes = [IsAuthenticated]\n    serializer_class = ProductSerializer\n    filter_backends = [DjangoFilterBackend, filters.OrderingFilter]\n    filterset_fields = {\n        \"category\": [\"exact\"],\n        \"brand\": [\"exact\"],\n        \"price\": [\"gte\", \"lte\"],\n        \"quantity\": [\"gte\", \"lte\"],\n        \"created_at\": [\"exact\", \"gte\", \"lte\"],",
+        "detail": "products.views",
+        "documentation": {}
+    },
+    {
+        "label": "process_image",
+        "kind": 2,
+        "importPath": "products.views",
+        "description": "products.views",
+        "peekOfCode": "def process_image(image_path, size):\n    image = Image.open(image_path)\n    image.thumbnail(size)\n    new_image_path = os.path.join(\n        os.path.dirname(image_path),\n        f\"{size[0]}x{size[1]}\",\n        os.path.basename(image_path),\n    )\n    os.makedirs(os.path.dirname(new_image_path), exist_ok=True)\n    image.save(new_image_path)",
+        "detail": "products.views",
+        "documentation": {}
+    },
+    {
+        "label": "upload_product_image",
+        "kind": 2,
+        "importPath": "products.views",
+        "description": "products.views",
+        "peekOfCode": "def upload_product_image(request, pk):\n    try:\n        product = Product.objects.get(pk=pk)\n    except Product.DoesNotExist:\n        return Response(status=status.HTTP_404_NOT_FOUND)\n    # Get the list of images from the request\n    images = request.FILES.getlist(\"images\", [])\n    # Iterate through each image and create a ProductImage instance for it\n    product_image_ids = []\n    for image in images:",
+        "detail": "products.views",
+        "documentation": {}
+    },
+    {
+        "label": "RegistrationConfig",
+        "kind": 6,
+        "importPath": "registration.apps",
+        "description": "registration.apps",
+        "peekOfCode": "class RegistrationConfig(AppConfig):\n    default_auto_field = \"django.db.models.BigAutoField\"\n    name = \"registration\"\n    def ready(self):\n        import registration.signals",
+        "detail": "registration.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserSerializer",
+        "kind": 6,
+        "importPath": "registration.serializers",
+        "description": "registration.serializers",
+        "peekOfCode": "class UserSerializer(serializers.ModelSerializer):\n    email = serializers.EmailField(required=True)\n    password = serializers.CharField(write_only=True)\n    confirm_password = serializers.CharField(write_only=True)\n    class Meta:\n        model = User\n        fields = (\"username\", \"email\", \"password\", \"confirm_password\")\n    def create(self, validated_data):\n        user = User.objects.create(\n            username=validated_data[\"username\"],",
+        "detail": "registration.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "send_welcome_email_if_new",
+        "kind": 2,
+        "importPath": "registration.signals",
+        "description": "registration.signals",
+        "peekOfCode": "def send_welcome_email_if_new(sender, instance, created, **kwargs):\n    if (\n        created\n        and (timezone.now() - instance.date_joined).total_seconds()\n        < WELCOME_EMAIL_DELAY_SECONDS\n    ):\n        print(\n            f\"New registration email will be sent to {instance.email} after {WELCOME_EMAIL_DELAY_SECONDS} seconds.\"\n        )\n        send_welcome_email.apply_async(",
+        "detail": "registration.signals",
+        "documentation": {}
+    },
+    {
+        "label": "send_welcome_email",
+        "kind": 2,
+        "importPath": "registration.tasks",
+        "description": "registration.tasks",
+        "peekOfCode": "def send_welcome_email(user_id):\n    user = User.objects.get(id=user_id)\n    print(f\"New registration email is being sent to {user.email}...\")\n    subject = \"Welcome to Skyloov!\"\n    message = f\"Hi {user.username}, thank you for joining our platform! Explore Over 48,000 properties around the emirates with https://skyloov.com/.\"\n    send_mail(subject, message, EMAIL_HOST_USER, [user.email])",
+        "detail": "registration.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "registration.urls",
+        "description": "registration.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"\", UserCreate.as_view(), name=\"account-create\"),\n]",
+        "detail": "registration.urls",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreate",
+        "kind": 6,
+        "importPath": "registration.views",
+        "description": "registration.views",
+        "peekOfCode": "class UserCreate(generics.CreateAPIView):\n    queryset = User.objects.all()\n    permission_classes = (AllowAny,)\n    serializer_class = UserSerializer",
+        "detail": "registration.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "skyloov.asgi",
+        "description": "skyloov.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "skyloov.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "skyloov.celery",
+        "description": "skyloov.celery",
+        "peekOfCode": "app = Celery(\"skyloov\")\napp.config_from_object(\"django.conf:settings\", namespace=\"CELERY\")\napp.autodiscover_tasks()",
+        "detail": "skyloov.celery",
+        "documentation": {}
+    },
+    {
+        "label": "WELCOME_EMAIL_DELAY_SECONDS",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "WELCOME_EMAIL_DELAY_SECONDS = 86400\n# Build paths inside the project like this: BASE_DIR / 'subdir'.\nBASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = os.environ.get(\"SECRET_KEY\")\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = os.environ.get(\"DEBUG\", True)\nALLOWED_HOSTS = []",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = os.environ.get(\"SECRET_KEY\")\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = os.environ.get(\"DEBUG\", True)\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "SECRET_KEY = os.environ.get(\"SECRET_KEY\")\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = os.environ.get(\"DEBUG\", True)\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "DEBUG = os.environ.get(\"DEBUG\", True)\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n    \"drf_yasg\",",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n    \"drf_yasg\",\n    \"rest_framework\",\n    \"registration\",",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",\n    \"django.middleware.csrf.CsrfViewMiddleware\",\n    \"django.contrib.auth.middleware.AuthenticationMiddleware\",\n    \"django.contrib.messages.middleware.MessageMiddleware\",\n    \"django.middleware.clickjacking.XFrameOptionsMiddleware\",\n]\nREST_FRAMEWORK = {",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    \"DEFAULT_FILTER_BACKENDS\": [\"django_filters.rest_framework.DjangoFilterBackend\"],\n    \"DEFAULT_AUTHENTICATION_CLASSES\": [\n        \"rest_framework_simplejwt.authentication.JWTAuthentication\",\n    ],\n    \"DEFAULT_PAGINATION_CLASS\": \"rest_framework.pagination.PageNumberPagination\",\n    \"PAGE_SIZE\": 10,\n}\nROOT_URLCONF = \"skyloov.urls\"\nTEMPLATES = [",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "ROOT_URLCONF = \"skyloov.urls\"\nTEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",\n                \"django.contrib.auth.context_processors.auth\",",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "WSGI_APPLICATION = \"skyloov.wsgi.application\"\n# Database\n# https://docs.djangoproject.com/en/4.1/ref/settings/#databases\nDATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.mysql\",\n        \"NAME\": os.environ.get(\"DB_NAME\", \"skyloov\"),\n        \"USER\": os.environ.get(\"DB_USER\", \"furqaan\"),\n        \"PASSWORD\": os.environ.get(\"DB_PASSWORD\", \"furqaan\"),\n        \"HOST\": os.environ.get(\"DB_HOST\", \"localhost\"),",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "DATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.mysql\",\n        \"NAME\": os.environ.get(\"DB_NAME\", \"skyloov\"),\n        \"USER\": os.environ.get(\"DB_USER\", \"furqaan\"),\n        \"PASSWORD\": os.environ.get(\"DB_PASSWORD\", \"furqaan\"),\n        \"HOST\": os.environ.get(\"DB_HOST\", \"localhost\"),\n        \"PORT\": os.environ.get(\"DB_PORT\", \"5432\"),\n        \"CONN_MAX_AGE\": None,\n    }",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_BROKER_URL",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "CELERY_BROKER_URL = os.environ.get(\"REDIS_URL\")\nCELERY_ACCEPT_CONTENT = {\"application/json\"}\nCELERY_RESULT_SERIALIZER = \"json\"\nCELERY_ACCEPT_CONTENT = [\"json\"]\nCELERY_TASK_SERIALIZER = \"json\"\nCELERY_BROKER_TRANSPORT_OPTIONS = {\"visibility_timeout\": 3600}\n# SMTP SETTINGS\nEMAIL_BACKEND = \"django.core.mail.backends.smtp.EmailBackend\"\nEMAIL_USE_TLS = True\nEMAIL_HOST = os.environ.get(\"EMAIL_HOST\")",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_ACCEPT_CONTENT",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "CELERY_ACCEPT_CONTENT = {\"application/json\"}\nCELERY_RESULT_SERIALIZER = \"json\"\nCELERY_ACCEPT_CONTENT = [\"json\"]\nCELERY_TASK_SERIALIZER = \"json\"\nCELERY_BROKER_TRANSPORT_OPTIONS = {\"visibility_timeout\": 3600}\n# SMTP SETTINGS\nEMAIL_BACKEND = \"django.core.mail.backends.smtp.EmailBackend\"\nEMAIL_USE_TLS = True\nEMAIL_HOST = os.environ.get(\"EMAIL_HOST\")\nEMAIL_PORT = os.environ.get(\"EMAIL_PORT\")",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_RESULT_SERIALIZER",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "CELERY_RESULT_SERIALIZER = \"json\"\nCELERY_ACCEPT_CONTENT = [\"json\"]\nCELERY_TASK_SERIALIZER = \"json\"\nCELERY_BROKER_TRANSPORT_OPTIONS = {\"visibility_timeout\": 3600}\n# SMTP SETTINGS\nEMAIL_BACKEND = \"django.core.mail.backends.smtp.EmailBackend\"\nEMAIL_USE_TLS = True\nEMAIL_HOST = os.environ.get(\"EMAIL_HOST\")\nEMAIL_PORT = os.environ.get(\"EMAIL_PORT\")\nEMAIL_HOST_USER = os.environ.get(\"EMAIL_HOST_USER\")",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_ACCEPT_CONTENT",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "CELERY_ACCEPT_CONTENT = [\"json\"]\nCELERY_TASK_SERIALIZER = \"json\"\nCELERY_BROKER_TRANSPORT_OPTIONS = {\"visibility_timeout\": 3600}\n# SMTP SETTINGS\nEMAIL_BACKEND = \"django.core.mail.backends.smtp.EmailBackend\"\nEMAIL_USE_TLS = True\nEMAIL_HOST = os.environ.get(\"EMAIL_HOST\")\nEMAIL_PORT = os.environ.get(\"EMAIL_PORT\")\nEMAIL_HOST_USER = os.environ.get(\"EMAIL_HOST_USER\")\nEMAIL_HOST_PASSWORD = os.environ.get(\"EMAIL_HOST_PASSWORD\")",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_TASK_SERIALIZER",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "CELERY_TASK_SERIALIZER = \"json\"\nCELERY_BROKER_TRANSPORT_OPTIONS = {\"visibility_timeout\": 3600}\n# SMTP SETTINGS\nEMAIL_BACKEND = \"django.core.mail.backends.smtp.EmailBackend\"\nEMAIL_USE_TLS = True\nEMAIL_HOST = os.environ.get(\"EMAIL_HOST\")\nEMAIL_PORT = os.environ.get(\"EMAIL_PORT\")\nEMAIL_HOST_USER = os.environ.get(\"EMAIL_HOST_USER\")\nEMAIL_HOST_PASSWORD = os.environ.get(\"EMAIL_HOST_PASSWORD\")\nDEFAULT_FROM_EMAIL = os.environ.get(\"DEFAULT_FROM_EMAIL\")",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CELERY_BROKER_TRANSPORT_OPTIONS",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "CELERY_BROKER_TRANSPORT_OPTIONS = {\"visibility_timeout\": 3600}\n# SMTP SETTINGS\nEMAIL_BACKEND = \"django.core.mail.backends.smtp.EmailBackend\"\nEMAIL_USE_TLS = True\nEMAIL_HOST = os.environ.get(\"EMAIL_HOST\")\nEMAIL_PORT = os.environ.get(\"EMAIL_PORT\")\nEMAIL_HOST_USER = os.environ.get(\"EMAIL_HOST_USER\")\nEMAIL_HOST_PASSWORD = os.environ.get(\"EMAIL_HOST_PASSWORD\")\nDEFAULT_FROM_EMAIL = os.environ.get(\"DEFAULT_FROM_EMAIL\")\n# Password validation",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_BACKEND",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "EMAIL_BACKEND = \"django.core.mail.backends.smtp.EmailBackend\"\nEMAIL_USE_TLS = True\nEMAIL_HOST = os.environ.get(\"EMAIL_HOST\")\nEMAIL_PORT = os.environ.get(\"EMAIL_PORT\")\nEMAIL_HOST_USER = os.environ.get(\"EMAIL_HOST_USER\")\nEMAIL_HOST_PASSWORD = os.environ.get(\"EMAIL_HOST_PASSWORD\")\nDEFAULT_FROM_EMAIL = os.environ.get(\"DEFAULT_FROM_EMAIL\")\n# Password validation\n# https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_USE_TLS",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "EMAIL_USE_TLS = True\nEMAIL_HOST = os.environ.get(\"EMAIL_HOST\")\nEMAIL_PORT = os.environ.get(\"EMAIL_PORT\")\nEMAIL_HOST_USER = os.environ.get(\"EMAIL_HOST_USER\")\nEMAIL_HOST_PASSWORD = os.environ.get(\"EMAIL_HOST_PASSWORD\")\nDEFAULT_FROM_EMAIL = os.environ.get(\"DEFAULT_FROM_EMAIL\")\n# Password validation\n# https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "EMAIL_HOST = os.environ.get(\"EMAIL_HOST\")\nEMAIL_PORT = os.environ.get(\"EMAIL_PORT\")\nEMAIL_HOST_USER = os.environ.get(\"EMAIL_HOST_USER\")\nEMAIL_HOST_PASSWORD = os.environ.get(\"EMAIL_HOST_PASSWORD\")\nDEFAULT_FROM_EMAIL = os.environ.get(\"DEFAULT_FROM_EMAIL\")\n# Password validation\n# https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.UserAttributeSimilarityValidator\",",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_PORT",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "EMAIL_PORT = os.environ.get(\"EMAIL_PORT\")\nEMAIL_HOST_USER = os.environ.get(\"EMAIL_HOST_USER\")\nEMAIL_HOST_PASSWORD = os.environ.get(\"EMAIL_HOST_PASSWORD\")\nDEFAULT_FROM_EMAIL = os.environ.get(\"DEFAULT_FROM_EMAIL\")\n# Password validation\n# https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.UserAttributeSimilarityValidator\",\n    },",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_USER",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "EMAIL_HOST_USER = os.environ.get(\"EMAIL_HOST_USER\")\nEMAIL_HOST_PASSWORD = os.environ.get(\"EMAIL_HOST_PASSWORD\")\nDEFAULT_FROM_EMAIL = os.environ.get(\"DEFAULT_FROM_EMAIL\")\n# Password validation\n# https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.UserAttributeSimilarityValidator\",\n    },\n    {",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_PASSWORD",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "EMAIL_HOST_PASSWORD = os.environ.get(\"EMAIL_HOST_PASSWORD\")\nDEFAULT_FROM_EMAIL = os.environ.get(\"DEFAULT_FROM_EMAIL\")\n# Password validation\n# https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.UserAttributeSimilarityValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.MinimumLengthValidator\",",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_FROM_EMAIL",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "DEFAULT_FROM_EMAIL = os.environ.get(\"DEFAULT_FROM_EMAIL\")\n# Password validation\n# https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.UserAttributeSimilarityValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.MinimumLengthValidator\",\n    },",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.UserAttributeSimilarityValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.MinimumLengthValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.CommonPasswordValidator\",\n    },",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "LANGUAGE_CODE = \"en-us\"\nTIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = \"static/\"\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = os.path.join(BASE_DIR, \"media\")\n# Default primary key field type",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "TIME_ZONE = \"UTC\"\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = \"static/\"\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = os.path.join(BASE_DIR, \"media\")\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = \"static/\"\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = os.path.join(BASE_DIR, \"media\")\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = \"static/\"\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = os.path.join(BASE_DIR, \"media\")\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "STATIC_URL = \"static/\"\nMEDIA_URL = \"/media/\"\nMEDIA_ROOT = os.path.join(BASE_DIR, \"media\")\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "MEDIA_URL = \"/media/\"\nMEDIA_ROOT = os.path.join(BASE_DIR, \"media\")\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR, \"media\")\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "skyloov.settings",
+        "description": "skyloov.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "skyloov.settings",
+        "documentation": {}
+    },
+    {
+        "label": "schema_view",
+        "kind": 5,
+        "importPath": "skyloov.urls",
+        "description": "skyloov.urls",
+        "peekOfCode": "schema_view = get_schema_view(\n    openapi.Info(\n        title=\"Skyloov API\",\n        default_version=\"v1\",\n        description=\"API documentation for Skyloov Project\",\n    ),\n    public=True,\n)\nurlpatterns = [\n    path(\"admin/\", admin.site.urls),",
+        "detail": "skyloov.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "skyloov.urls",
+        "description": "skyloov.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"admin/\", admin.site.urls),\n    path(\n        \"docs/\",\n        schema_view.with_ui(\"swagger\", cache_timeout=0),\n        name=\"schema-swagger-ui\",\n    ),\n    path(\"api/token/\", TokenObtainPairView.as_view(), name=\"token_obtain_pair\"),\n    path(\"api/token/refresh/\", TokenRefreshView.as_view(), name=\"token_refresh\"),\n    path(\"api/register/\", include(\"registration.urls\")),",
+        "detail": "skyloov.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "skyloov.wsgi",
+        "description": "skyloov.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "skyloov.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'skyloov.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]

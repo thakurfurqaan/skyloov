@@ -1,0 +1,53 @@
+version: "3"
+
+services:
+  web:
+    build: .
+    # command: gunicorn --bind 0.0.0.0:8000 skyloov.wsgi:application
+    command: python /code/manage.py runserver 0.0.0.0:8000
+    volumes:
+      - .:/code
+      - static_data:/code/static
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+      - redis
+    env_file:
+      - .env
+    environment:
+      - DB_HOST=db
+    mem_limit: 1024m
+
+  db:
+    image: mysql:8.0
+    environment:
+      MYSQL_DATABASE: skyloov
+      MYSQL_USER: furqaan
+      MYSQL_PASSWORD: furqaan
+      MYSQL_ROOT_PASSWORD: furqaan
+    volumes:
+      - db_data:/var/lib/mysql
+
+  redis:
+    image: "redis"
+    ports:
+      - "6379:6379"
+
+  celery:
+    build: .
+    command: celery -A skyloov worker --loglevel=info
+    volumes:
+      - .:/code
+    depends_on:
+      - web
+      - db
+      - redis
+    env_file:
+      - .env
+    environment:
+      - DB_HOST=db
+
+volumes:
+  db_data:
+  static_data:
